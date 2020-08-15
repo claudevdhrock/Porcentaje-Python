@@ -1,9 +1,9 @@
 # Porcentaje - Python
-Programa echo en Python, bajo un valor y un porcentaje inicial dado por el cliente, retorna el total con el porcentaje descontado.
+The echo program in Python, under a value and an initial percentage given by the client, returns the total with the discounted percentage.
 
-## Para crear un Archivo ejecutable y poder usarlo:
-- Descargar el Repositorio.
-- Dentro de la carpeta del Repositorio ingresar los siguientes comandos:
+## To create an executable file and be able to use it:
+- Download the Repository.
+- Inside the Repository folder enter the following commands:
   -  pip install pyinstaller
   -  pyinstaller --windowed --onefile --icon=./logo.ico Porcentaje.py
 
